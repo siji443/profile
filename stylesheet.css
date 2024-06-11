@@ -160,6 +160,7 @@ footer p{
 
     .bicycle img{
         width: 100%;
+        height: auto;
     }
     
     footer{
